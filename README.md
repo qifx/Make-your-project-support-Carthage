@@ -6,5 +6,6 @@
 2.select the scheme you want to share, add check the "shared" checkbox behind it.<br/>
 3.check your .gitignore file, make sure you projectName.xccodeproj/xcshareddata/xcschemes/projectName.xcscheme not be ignore.<br/>
 <br/>
-#### that's all.<br/>
-#### Thanks :)
+
+that's all.<br/>
+Thanks :)
