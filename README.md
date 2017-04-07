@@ -7,5 +7,4 @@
 3.check your .gitignore file, make sure you projectName.xccodeproj/xcshareddata/xcschemes/projectName.xcscheme not be ignore.<br/>
 <br/>
 
-that's all.<br/>
-Thanks :)
+That's all :)
